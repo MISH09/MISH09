@@ -101,8 +101,7 @@ A machine learning-based cybersecurity application designed to classify network 
 
 **Leveraging Convolutional Neural Networks for AI Artwork Classification**
 
-Published at IEEE ESCI 2025. The paper was recognized as the **_Best Paper of the Session_
-**.
+Published at IEEE ESCI 2025. The paper was recognized as the **Best Paper of the Session.**
 (https://ieeexplore.ieee.org/document/10988229)
 
 ## Connect With Me
